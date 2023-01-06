@@ -1,0 +1,16 @@
+tensorflow>=2.5.0
+keras
+tqdm
+sklearn
+scikit-learn
+seaborn
+opencv-python
+
+
+
+
+
+
+
+
+
